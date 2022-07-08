@@ -1,10 +1,35 @@
-Phase - 4 Project - Tattoo Browser
+Phase - 4 Project - Alchemy Tattoos
 Kenneth & Mark
+
+MODELS
+------
+
 
 MVP
 ------
 - User can Login 
-- 
+- On Login
+-- Displays "Pinterest" display of tattoo designs
+--- User can favorite designs
+-- Displays NavBar
+--- Home
+---- Displays Logo & NavLinks
+--- Browse
+---- Drop-down selector of various tattoo styles (filters by style)
+--- Favorites 
+---- Displays User specific favorites
+---- Designs Favorited on Home get "stored" in Favorites (CREATE)
+---- User can Rate (star?) (PATCH) designs - filtered in descending order of Rating
+---- User can descrease Rating of designs (UPDATE)
+---- User can remove (DELETE)
+--- Shops 
+---- List of "Fake" Tattoo Shops where you can get your design done
+
+Stretch Goals
+------
+- Click Tattoo image on Home screen
+-- Displays first 2-3 User Ratings of that design
+
 
 
 
@@ -21,7 +46,8 @@ MVP
 
 LOGO
 ------
-
+Alchemy Tattoos
+https://user-images.githubusercontent.com/102488171/178009363-a7e88595-2387-4be9-90c1-9e0290e74fb4.png
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
