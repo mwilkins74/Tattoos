@@ -36,6 +36,8 @@ Stretch Goals
 --- Shops 
 ---- List of "Fake" Tattoo Shops where you can get your design done
 
+- User Avatars upon Account Creation
+
 LOGO
 ------
 Alchemy Tattoos
