@@ -3,7 +3,7 @@ Kenneth & Mark
 
 MODELS
 ------
-
+Users >-- Tattoos --< Styles
 
 MVP
 ------
@@ -19,30 +19,22 @@ MVP
 --- Favorites 
 ---- Displays User specific favorites
 ---- Designs Favorited on Home get "stored" in Favorites (CREATE)
----- User can Rate (star?) (PATCH) designs - filtered in descending order of Rating
+---- User can Rate (star?) (PATCH) designs
 ---- User can descrease Rating of designs (UPDATE)
 ---- User can remove (DELETE)
---- Shops 
----- List of "Fake" Tattoo Shops where you can get your design done
+
 
 Stretch Goals
 ------
 - Click Tattoo image on Home screen
 -- Displays first 2-3 User Ratings of that design
 
+- Favorites
+-- filtered in descending order of Rating
 
-
-
-
-
-
-
-
-
-
-
-
-
+- NavLink?
+--- Shops 
+---- List of "Fake" Tattoo Shops where you can get your design done
 
 LOGO
 ------
